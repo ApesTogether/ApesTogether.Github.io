@@ -6,7 +6,9 @@ You can use NFTs to help support wild life and adopt endangered animals. 100% of
 
 Whenever you commit purchase an APE NTF, 10% of the sale price will go to help wild life.
 
-Our partners
+Our providers:
+
+https://WildTomorrowFund.org
 https://gorillafund.org/
 https://www.shopnwf.org/categories/Shop-Adoption-Center-Adopt-an-Animal
 https://www.worldanimalfoundation.com/adoptananimalkits/adopt-an-endangered-species/
